@@ -23,6 +23,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.icon-color{
+  color: #333;
+}
 
 .icon-times:before {
   content: "\e930";
